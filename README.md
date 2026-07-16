@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @leopardkn
-- 👀 I’m interested in Web Development using Django and React
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Development using AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI
 
 <!---
 leopardkn/leopardkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
